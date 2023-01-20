@@ -1,0 +1,37 @@
+body{
+    background: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+header{
+    background: orange;
+}
+nav{
+    background: blue;
+}
+section{
+    background: red;
+}
+footer{
+    background: green;
+}
+
+#titulo-principal{
+    color:grey;
+}
+
+footer p{
+    color: red;
+}
+
+footer p:nth-child(2){
+    color: violet;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    line-height: 20px;
+}
